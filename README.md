@@ -225,8 +225,8 @@ This program is licensed under the GNU GPL v3. All code has been written by me, 
 
 # Copyright Notice:
 ```
-Strvm/meta-ai-api: a reverse engineered API wrapper for MetaAI
-Copyright (C) 2023 Strvm
+Strvm/meta-ai-pi: a reverse engineered API wrapper for MetaAI
+Copyright © 2025 Joseph Thornton Jr
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
