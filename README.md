@@ -226,7 +226,24 @@ This program is licensed under the GNU GPL v3. All code has been written by me, 
 # Copyright Notice:
 ```
 Strvm/meta-ai-api: a reverse engineered API wrapper for MetaAI
-Copyright (C) 2023 Strvm
+Copyright © 2025 Joseph Thornton Jr.
+All rights reserved.
+
+---
+
+**Public License for Non-Commercial Use**
+
+This work is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. This allows for free, non-commercial sharing and adaptation. To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/4.0/.
+
+---
+
+**Commercial Licensing**
+
+The public license granted above does **not** apply to commercial use. All rights for commercial use, including but not limited to resale, advertising, and promotional purposes, are exclusively reserved by the copyright holder, Joseph Thornton Jr.
+
+Parties interested in using this work for commercial purposes must obtain a separate, written commercial license. All revenue and royalties generated from the commercial use of this work without a valid license are forfeit to the copyright holder.
+
+To inquire about a commercial license, please contact: [Your Email Address or Website]
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
