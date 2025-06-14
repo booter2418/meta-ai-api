@@ -225,7 +225,10 @@ This program is licensed under the GNU GPL v3. All code has been written by me, 
 
 # Copyright Notice:
 ```
-Strvm/meta-ai-api: a reverse engineered API wrapper for MetaAI
+<footer>
+  <p>&copy; <script>document.write(new Date().getFullYear())</script> Joseph Thornton Jr. All Rights Reserved.</p>
+</footer>
+: a reverse engineered API wrapper for MetaAI
 Copyright (C) 2025 Joseph Thornton jr all rights reserved.
 
 This program is free software: you can redistribute it and/or modify
