@@ -225,8 +225,8 @@ This program is licensed under the GNU GPL v3. All code has been written by me, 
 
 # Copyright Notice:
 ```
-Strvm/meta-ai-api: a reverse engineered API wrapper for MetaAI
-Copyright (C) 2023 Strvm
+/meta-ai-api: a reverse engineered API wrapper for MetaAI
+Copyright (C) 2025 {Joseph Thornton jr}
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
@@ -245,3 +245,4 @@ along with this program.  If not, see <https://www.gnu.org/licenses/>.
 # Meta Copyright:
 
 For more information related to the license tied to Llama, please visit https://www.llama.com/llama3/license/
+Copyright ©️ 2025 {Joseph Thornton jr} all rights reserved.
