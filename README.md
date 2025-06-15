@@ -220,7 +220,7 @@ print(resp)
 This repository is intended for educational purposes only. It is a tool to demonstrate how to interact with Meta's AI APIs, providing an example for learning and experimentation. Users should adhere to Meta's terms of service and use the library responsibly.
 
 
-# Copyright:
+# Copyright (c) 2025 Joseph Thornton jr all rights reserved.
 This program is licensed under the GNU GPL v3. All code has been written by me, Strvm.
 
 # Copyright Notice:
